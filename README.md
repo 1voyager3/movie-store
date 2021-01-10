@@ -1,2 +1,3 @@
-# movie-store
-In this project is used Express, GraphQl, Apollo, Material-UI
+### @desc movie-store
+
+Movie Store app on React and Express with GraphQl, Apollo, Material-UI
